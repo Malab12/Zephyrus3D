@@ -28,5 +28,8 @@
     <Text Include="VideoShip.obj">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="mountains.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
